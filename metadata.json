@@ -1,0 +1,7 @@
+{
+  "name": "Python cùng thầy Kha V5",
+  "description": "A fun, interactive Python learning app for students where code comes to life through a stick figure character.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
